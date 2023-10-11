@@ -4,5 +4,10 @@ function tocaSomPom(){
 
 
 
+let contador = 0;
 
-document.querySelector('.tecla.pom').onclick = tocaSomPom()
+while(contador < 9){
+listaDeTeclas[0].onclick
+
+contador = contador + 1;
+}
